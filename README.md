@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BitsAndAtoms
-- 👀 I’m interested in open source projects and accessible software
-- 🌱 I’m currently learning about data pipelines
-- 💞️ I’m looking to collaborate on scientific computing projects
-- 📫 How to reach me ... Just go to my website bitsandatoms.github.io and submit the form or DM here
+- 👀 I’m interested in accessible software for all
+- 🌱 I’m currently creating data pipelines
+- 💞️ I’m looking to collaborate on scientific computing
+- 📫 Just DM me here or submit form at https://bitsandatoms.github.io/
 
 <!---
 BitsAndAtoms/BitsAndAtoms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
